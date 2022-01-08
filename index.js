@@ -21,8 +21,10 @@ app.use('/vendor', express.static(path.join(__dirname, "/bootstrap-4.0.0/assets/
 app.use('/pricing', express.static(path.join(__dirname, "/bootstrap-4.0.0/docs/4.0/examples/pricing")));
 app.use(express.static(staticpath))
 
+app.set('view engine', 'ejs')
+
 app.get("/", (req, res) => {
-    res.send("Check server is running");
+    res.render("index.ejs");
 });
 
 app.get("/recipes", async (req, res) => {
