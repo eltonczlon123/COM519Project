@@ -13,7 +13,7 @@ db.on("error", console.error.bind(console, "connection error: "));
 db.once("open", function () {
     console.log("Connected successfully");
 });
-const staticpath = path.join(__dirname, "public");
+const staticpath = path.join(__dirname, "views");
 app.use('/js', express.static(path.join(__dirname, "/node_modules/bootstrap/dist/js")));
 app.use('/css', express.static(path.join(__dirname, "/node_modules/bootstrap/dist/css")));
 app.use('/jq', express.static(path.join(__dirname, "/node_modules/jquery/dist")));
