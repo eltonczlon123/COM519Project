@@ -3,7 +3,7 @@ const path = require("path")
 require("./seeder");
 const mongoose = require('mongoose');
 const nodemon = require('nodemon')
-const port = process.env.PORT || 8080;
+const port = process.env.PORT || 8000;
 const foodItems = require('./models/FoodItems');
 const foodQuantity = require('./models/Quantity');
 const app = express();
