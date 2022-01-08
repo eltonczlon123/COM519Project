@@ -61,7 +61,7 @@ app.put("/recipes", async (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('Running at port 8080');
+    console.log('Running at port 8000');
 });
 
 
