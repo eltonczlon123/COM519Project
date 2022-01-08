@@ -21,10 +21,6 @@ app.use('/vendor', express.static(path.join(__dirname, "/bootstrap-4.0.0/assets/
 app.use('/pricing', express.static(path.join(__dirname, "/bootstrap-4.0.0/docs/4.0/examples/pricing")));
 app.use(express.static(staticpath))
 
-app.get("/", (req, res) => {
-    res.send("Check server is running");
-});
-
 app.get("/recipes", async (req, res) => {
     try {
         const foodStock = await foodItems.find();
