@@ -1,0 +1,447 @@
+[
+ {
+   "Food_items": "Almond butter (500g)",
+   "ID": 1,
+   "Quantity": 25
+ },
+ {
+   "Food_items": "Almonds (pack)",
+   "ID": 2,
+   "Quantity": 5
+ },
+ {
+   "Food_items": "American cheese (250g)",
+   "ID": 3,
+   "Quantity": 53
+ },
+ {
+   "Food_items": "Apple",
+   "ID": 4,
+   "Quantity": 63
+ },
+ {
+   "Food_items": "Asparagus",
+   "ID": 5,
+   "Quantity": 16
+ },
+ {
+   "Food_items": "Avocado",
+   "ID": 6,
+   "Quantity": 5
+ },
+ {
+   "Food_items": "Bacon strips (500g)",
+   "ID": 7,
+   "Quantity": 6
+ },
+ {
+   "Food_items": "Bagels (Pack of 4)",
+   "ID": 8,
+   "Quantity": 9
+ },
+ {
+   "Food_items": "Bananas",
+   "ID": 9,
+   "Quantity": 20
+ },
+ {
+   "Food_items": "Beans (can)",
+   "ID": 10,
+   "Quantity": 3
+ },
+ {
+   "Food_items": "Beef (1kg)",
+   "ID": 11,
+   "Quantity": 6
+ },
+ {
+   "Food_items": "Blueberries (pack)",
+   "ID": 12,
+   "Quantity": 3
+ },
+ {
+   "Food_items": "Breadcrumbs (200g)",
+   "ID": 13,
+   "Quantity": 52
+ },
+ {
+   "Food_items": "Brocolli",
+   "ID": 14,
+   "Quantity": 8
+ },
+ {
+   "Food_items": "Brown Rice (5kg)",
+   "ID": 15,
+   "Quantity": 3
+ },
+ {
+   "Food_items": "Brownie (pack)",
+   "ID": 16,
+   "Quantity": 8
+ },
+ {
+   "Food_items": "Butter (500g)",
+   "ID": 17,
+   "Quantity": 9
+ },
+ {
+   "Food_items": "Caramel popcorn (1kg)",
+   "ID": 18,
+   "Quantity": 11
+ },
+ {
+   "Food_items": "Carp Fish (5kg)",
+   "ID": 19,
+   "Quantity": 86
+ },
+ {
+   "Food_items": "Cashew Nuts (pack)",
+   "ID": 20,
+   "Quantity": 2
+ },
+ {
+   "Food_items": "Cauliflower",
+   "ID": 21,
+   "Quantity": 10
+ },
+ {
+   "Food_items": "Cereals-Corn Flakes (2kg)",
+   "ID": 22,
+   "Quantity": 4
+ },
+ {
+   "Food_items": "Chappati (pack of 5)",
+   "ID": 23,
+   "Quantity": 2
+ },
+ {
+   "Food_items": "Chia seeds (5kg)",
+   "ID": 24,
+   "Quantity": 1
+ },
+ {
+   "Food_items": "Chipotle pepper (1kg)",
+   "ID": 25,
+   "Quantity": 100
+ },
+ {
+   "Food_items": "Chocolate Doughnut",
+   "ID": 26,
+   "Quantity": 1
+ },
+ {
+   "Food_items": "Chocolate milk (2L)",
+   "ID": 27,
+   "Quantity": 3
+ },
+ {
+   "Food_items": "Coffee (500g)",
+   "ID": 28,
+   "Quantity": 2
+ },
+ {
+   "Food_items": "Cottage cheese (250g)",
+   "ID": 29,
+   "Quantity": 22
+ },
+ {
+   "Food_items": "Cottonseeds (5kg)",
+   "ID": 30,
+   "Quantity": 1
+ },
+ {
+   "Food_items": "Dal Makhani (300g)",
+   "ID": 31,
+   "Quantity": 7
+ },
+ {
+   "Food_items": "Dark chocolates (200kg)",
+   "ID": 32,
+   "Quantity": 20
+ },
+ {
+   "Food_items": "Dried Parsley (500g)",
+   "ID": 33,
+   "Quantity": 3
+ },
+ {
+   "Food_items": "Eggs (Pack of 24)",
+   "ID": 34,
+   "Quantity": 6
+ },
+ {
+   "Food_items": "Flour (2kg)",
+   "ID": 35,
+   "Quantity": 15
+ },
+ {
+   "Food_items": "French Fries (1kg)",
+   "ID": 36,
+   "Quantity": 5
+ },
+ {
+   "Food_items": "Fusilli Pasta (3kg)",
+   "ID": 37,
+   "Quantity": 26
+ },
+ {
+   "Food_items": "Garlic (pack of 10)",
+   "ID": 38,
+   "Quantity": 5
+ },
+ {
+   "Food_items": "Goat meat (1kg)",
+   "ID": 39,
+   "Quantity": 7
+ },
+ {
+   "Food_items": "Grapes (pack)",
+   "ID": 40,
+   "Quantity": 13
+ },
+ {
+   "Food_items": "Greek yogurt plain (500g)",
+   "ID": 41,
+   "Quantity": 26
+ },
+ {
+   "Food_items": "Green Tea (Pack of 100)",
+   "ID": 42,
+   "Quantity": 25
+ },
+ {
+   "Food_items": "Marshmallows (500g)",
+   "ID": 43,
+   "Quantity": 11
+ },
+ {
+   "Food_items": "Milk (2L)",
+   "ID": 44,
+   "Quantity": 10
+ },
+ {
+   "Food_items": "Minced beef (2kg)",
+   "ID": 45,
+   "Quantity": 12
+ },
+ {
+   "Food_items": "Mineral water (5L)",
+   "ID": 46,
+   "Quantity": 100
+ },
+ {
+   "Food_items": "Mozzarella cheese (500g)",
+   "ID": 47,
+   "Quantity": 12
+ },
+ {
+   "Food_items": "Mushrooms",
+   "ID": 48,
+   "Quantity": 30
+ },
+ {
+   "Food_items": "Noodles (Pack of 12)",
+   "ID": 49,
+   "Quantity": 42
+ },
+ {
+   "Food_items": "Oat Bran (5kg)",
+   "ID": 50,
+   "Quantity": 4
+ },
+ {
+   "Food_items": "Olive oil (5L)",
+   "ID": 51,
+   "Quantity": 27
+ },
+ {
+   "Food_items": "Onion (pack of 20)",
+   "ID": 52,
+   "Quantity": 2
+ },
+ {
+   "Food_items": "Orange",
+   "ID": 53,
+   "Quantity": 21
+ },
+ {
+   "Food_items": "Orange juice (1L)",
+   "ID": 54,
+   "Quantity": 3
+ },
+ {
+   "Food_items": "Organic honey (500g)",
+   "ID": 55,
+   "Quantity": 6
+ },
+ {
+   "Food_items": "Oyster",
+   "ID": 56,
+   "Quantity": 73
+ },
+ {
+   "Food_items": "Passion fruit",
+   "ID": 57,
+   "Quantity": 21
+ },
+ {
+   "Food_items": "Pears",
+   "ID": 58,
+   "Quantity": 0
+ },
+ {
+   "Food_items": "Peas (can)",
+   "ID": 59,
+   "Quantity": 7
+ },
+ {
+   "Food_items": "Pepproni (400g)",
+   "ID": 60,
+   "Quantity": 5
+ },
+ {
+   "Food_items": "Pineapple",
+   "ID": 61,
+   "Quantity": 8
+ },
+ {
+   "Food_items": "Poha",
+   "ID": 62,
+   "Quantity": 0
+ },
+ {
+   "Food_items": "Popcorn (1kg)",
+   "ID": 63,
+   "Quantity": 2
+ },
+ {
+   "Food_items": "Potatoes (10kg)",
+   "ID": 64,
+   "Quantity": 3
+ },
+ {
+   "Food_items": "Prosciutto (500g)",
+   "ID": 65,
+   "Quantity": 25
+ },
+ {
+   "Food_items": "Protein Powder (1kg)",
+   "ID": 66,
+   "Quantity": 7
+ },
+ {
+   "Food_items": "Pumpkin",
+   "ID": 67,
+   "Quantity": 10
+ },
+ {
+   "Food_items": "Quninoa (500g)",
+   "ID": 68,
+   "Quantity": 4
+ },
+ {
+   "Food_items": "Rabbit meat (1kg)",
+   "ID": 69,
+   "Quantity": 8
+ },
+ {
+   "Food_items": "Rice Pudding (200g)",
+   "ID": 70,
+   "Quantity": 3
+ },
+ {
+   "Food_items": "Salmon (5kg)",
+   "ID": 71,
+   "Quantity": 6
+ },
+ {
+   "Food_items": "Salsa (250ml)",
+   "ID": 72,
+   "Quantity": 35
+ },
+ {
+   "Food_items": "Shrimp (250g)",
+   "ID": 73,
+   "Quantity": 8
+ },
+ {
+   "Food_items": "Sour cream (1L)",
+   "ID": 74,
+   "Quantity": 2
+ },
+ {
+   "Food_items": "Strawberries (200g)",
+   "ID": 75,
+   "Quantity": 62
+ },
+ {
+   "Food_items": "Strawberry Icecream (1L)",
+   "ID": 76,
+   "Quantity": 5
+ },
+ {
+   "Food_items": "Sugar (1kg)",
+   "ID": 77,
+   "Quantity": 12
+ },
+ {
+   "Food_items": "Sugar Doughnuts (Pack of 20)",
+   "ID": 78,
+   "Quantity": 2
+ },
+ {
+   "Food_items": "Sweet Potatoes (5kg)",
+   "ID": 79,
+   "Quantity": 30
+ },
+ {
+   "Food_items": "Sweetcorn (1kg)",
+   "ID": 80,
+   "Quantity": 9
+ },
+ {
+   "Food_items": "Tomato (pack of 10)",
+   "ID": 81,
+   "Quantity": 4
+ },
+ {
+   "Food_items": "Tomato puree (1L)",
+   "ID": 82,
+   "Quantity": 7
+ },
+ {
+   "Food_items": "Tortilla chips (500kg)",
+   "ID": 83,
+   "Quantity": 8
+ },
+ {
+   "Food_items": "Tuna Fish (5kg)",
+   "ID": 84,
+   "Quantity": 1
+ },
+ {
+   "Food_items": "Turkey (5kg)",
+   "ID": 85,
+   "Quantity": 1
+ },
+ {
+   "Food_items": "Uttapam Mix (500mg)",
+   "ID": 86,
+   "Quantity": 2
+ },
+ {
+   "Food_items": "Vanilla Ice cream (1L)",
+   "ID": 87,
+   "Quantity": 30
+ },
+ {
+   "Food_items": "White Rice (5kg)",
+   "ID": 88,
+   "Quantity": 50
+ },
+ {
+   "Food_items": "Yogurt (1L)",
+   "ID": 89,
+   "Quantity": 6
+ }
+]
