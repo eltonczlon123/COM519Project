@@ -25,5 +25,9 @@ To view the contents of the database;
 
 2. Connect to the database using the link provided: mongodb+srv://admin123:admin123@cluster0.vgxbw.mongodb.net/test
 
+![dfghdfgh](https://user-images.githubusercontent.com/72078173/148663180-c246568b-01b7-4d9d-80f2-ef93dfe30253.png)
+
+3. Click the "Connect" button
+
 
 
